@@ -1,0 +1,17 @@
+{
+    "name": "じぶんログ",
+    "short_name": "じぶんログ",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1F5464",
+    "theme_color": "#2E7D8F",
+    "description": "記録したいものを自分で決められる記録アプリ。単位も段階数も自由。広告なし。記録は端末の中だけ。",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
+        { "src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png" },
+        { "src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+        { "src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    ]
+}
